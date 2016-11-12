@@ -22,8 +22,8 @@
         "many-to-many-example.md",
         "examples-tl-dr.md"
     ],
-    "core-data-structures.md",
     "custom-data-structures.md",
+    "code-warning.md",
     [
         "create-a-custom-post-type.md",
         "create-cpt-1.md",
@@ -46,6 +46,7 @@
         "shadow-taxonomy-1.md",
         "shadow-taxonomy-2.md",
         "shadow-taxonomy-3.md",
+        "shadow-taxonomy-5.md",
         "shadow-taxonomy-4.md"
     ],
     [
@@ -57,7 +58,8 @@
         "query-6.md",
         "query-7.md",
         "query-8.md",
-        "query-9.md"
+        "query-9.md",
+        "query-10.md"
     ],
     [
         "caching-1.md",
@@ -68,7 +70,12 @@
     ],
     [
         "caching-6.md",
-        "caching-7.md"
+        "caching-7.md",
+        "caching-8.md"
     ],
-    "thank-you.md"
+    "thank-you.md",
+    "shadow-taxonomy-5.html",
+    "code-warning.md",
+    "caching-8.md",
+    "query-10.md"
 ]

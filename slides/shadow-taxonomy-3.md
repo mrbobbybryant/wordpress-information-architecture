@@ -1,3 +1,3 @@
 ##  Shadow Taxonomy Cont.
 
-![Showdow Taxonomy](resources/Shadow-example.jpg)
+[Showdow Taxonomy Library](https://github.com/mrbobbybryant/shadow-taxonomy)
